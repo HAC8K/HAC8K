@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/107248617?v=4" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm HAC8K, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
